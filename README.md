@@ -4,7 +4,7 @@ The git repository is automatically committed and pushed.
 
 Lets you quickly type your ideas/todos using the terminal and continue on with your work.
 
-![Demo]()
+![Demo](https://github.com/Anurag-gg/chalkit/blob/main/assets/demo.gif)
 
 # Initital setup
 Requires a directory containing git repository with a README.md file in it.
