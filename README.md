@@ -4,6 +4,8 @@ The git repository is automatically committed and pushed.
 
 Lets you quickly type your ideas/todos using the terminal and continue on with your work.
 
+![Demo]()
+
 # Initital setup
 Requires a directory containing git repository with a README.md file in it.
 When you run chalkit for the first time, it asks for the absolute path for this directory.
