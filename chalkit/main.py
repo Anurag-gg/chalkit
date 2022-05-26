@@ -29,4 +29,4 @@ def chalkit(reset: bool = False ,view: bool = False):
             typer.secho(f"Error:{e}", fg=typer.colors.BRIGHT_RED)
 
 
-app()
+
