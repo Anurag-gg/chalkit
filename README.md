@@ -19,7 +19,7 @@ $ pip install chalkit
 
 # Commands
 ```
- $ eureka    First time setup, edit ur ideas
+ $ chalkit    First time setup, edit ur ideas
 ```
 
 ## Flags
